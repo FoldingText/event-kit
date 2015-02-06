@@ -21,7 +21,7 @@
     }
   ],
   "dependencies": {
-    "grim": "file:../../../../../var/folders/rl/1znvhr6s64971w_l5vmmz8c80000gn/T/npm-2862-ed218840/1422030864756-0.7206428349018097/44088e23098a0507b4b8aff58cc42a6cb2a4e3d8"
+    "grim": "^1.0.0"
   },
   "devDependencies": {
     "coffee-cache": "^0.2.0",
