@@ -1,4 +1,4 @@
-Grim = require 'grim'
+Grim = require 'atom/grim/lib/grim'
 
 # Essential: A handle to a resource that can be disposed. For example,
 # {Emitter::on} returns disposables representing subscriptions.
